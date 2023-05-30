@@ -61,6 +61,7 @@ this is the whole project assembled with out the water or plants.
 
 ## wiring 
 
+![4922F7EB-AF79-4939-9D03-1A6D4A7EB336](https://github.com/Ncrawfo72/aquaponics/assets/112981453/d5e40a1c-0e7e-4370-9b9b-82417bd19b94)
 
   
 
