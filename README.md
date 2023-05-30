@@ -65,6 +65,7 @@ this is the whole project assembled with out the water or plants.
   
 
 ## code
+```
 
 import digitalio
 import time
@@ -96,6 +97,6 @@ while True:
     except RuntimeError:
         print("Retrying!")   #incase the distance found an error it would print retrying on the montior
     time.sleep(0.1)
-
+```
 
 ## reflection  
