@@ -59,7 +59,7 @@ this is our final pump, the one we first used was to strong and the valve could 
 
 this is the whole project assembled with out the water or plants. 
 
-https://github.com/Ncrawfo72/aquaponics/blob/main/images/aquaponics%20working.gif
+<img src="https://github.com/Ncrawfo72/aquaponics/blob/main/images/aquaponics%20working.gif" height="350">
 
 ## wiring 
 
