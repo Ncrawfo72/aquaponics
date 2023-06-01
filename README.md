@@ -81,6 +81,8 @@ A blurry video of our project pumping out water (Unfornatley you cant hear the c
 
 <img src="https://github.com/cprocino/Aquaponics/assets/71406784/e2b536a0-490c-4253-8386-be21ea5720ce" height="350">
 
+(Our wiring may seem simple but its actually pretty complicated as we have both 12v and 6v in the same project and the added element of water and electricity)
+
   
 
 ## code
