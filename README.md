@@ -49,11 +49,11 @@ week 6: finish documentation and add plants
 ## visuals
 <img src="https://github.com/cprocino/Aquaponics/assets/71406784/86a0e908-96a6-4de7-9fcf-735391fd2e29" height="300">
 
-This is a partial picture of our wiring that shows the most important parts ( see wiring diagram for full wiring) 
+This is a partial picture of our wiring that shows the most important parts. ( see wiring diagram for full wiring) 
 
 <img src="https://github.com/cprocino/Aquaponics/assets/71406784/e2a363ca-2033-448c-b5bb-e4b3e986a802" height="300">
 
-This is the board we cut out in order fo make this a viable system for Hydro/aquaponics, it allows us to suspend potatos in the water and lets them grow. 
+This is the board we cut out in order fo make this a viable system for Hydro/aquaponics, it allows us to suspend potatos in the water and lets them grow.
 
 <img src="https://github.com/cprocino/Aquaponics/assets/71406784/a56aafc4-da36-4c78-8105-d22c0ad17798" height="300">
 
@@ -61,17 +61,18 @@ This is a picture of our small monitiered tank and the valve we used to affect f
 
 <img src="https://github.com/cprocino/Aquaponics/assets/71406784/99353b00-bdc5-4b77-abb7-96275dfcf8e0" height="250">
 
-this is the tank that encloses the whole system
+this is the tank that encloses the whole system.
 
 <img src="https://github.com/cprocino/Aquaponics/assets/71406784/e11dadc4-419e-4fe5-b15d-2721fd8b6252" height="250">
 
-this is our final pump, the one we first used was to strong and the valve could not keep up with the flow
+this is our final pump, the one we first used was to strong and the valve could not keep up with the flow.
 
 <img src="https://github.com/cprocino/Aquaponics/assets/71406784/ceef106a-32a8-4821-ae7c-09107d3ca763" height="250">
 
-this is the whole project assembled with out the water or plants. 
+this is the whole project assembled with out the water or plants.
 
 <img src="https://github.com/Ncrawfo72/aquaponics/blob/main/images/aquaponics%20working.gif" height="350">
+
 A blurry video of our project pumping out water (Unfornatley you cant hear the clicking of our distance sensor working. However it is working)
 
 ## wiring 
@@ -121,3 +122,8 @@ while True:
 ```
 
 ## reflection  
+
+
+
+
+
