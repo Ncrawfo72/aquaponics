@@ -78,8 +78,11 @@ A blurry video of our project pumping out water (Unfornatley you cant hear the c
 
 ## CAD
 
-## wiring 
+Onshape Link: https://cvilleschools.onshape.com/documents/3813bbc705763837a6b10ab5/w/3603bbafdd8ffd75d486f9db/e/110a7443df0cb97ea87ff239?aa=true 
 
+We did very little in terms of CAD as we really had no need for it. The main part of our projects structure was the fish tank so their was no major need for code. We did however pring a tiny laser cut thing that would be used to hold pataoes in the overall idea of Aquaponics. We also used mainly wood and tuberwear for the other structure we needed in our prroject as it was simplier and more efficient. It could also be reused thus not wasting expensive acrilic.
+
+## wiring 
 
 <img src="https://github.com/cprocino/Aquaponics/assets/71406784/ab2396e1-eb2b-4488-9088-078385f6d8b5" height="350">
 
